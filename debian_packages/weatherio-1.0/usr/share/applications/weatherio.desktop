@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=WeatherIO
+Comment=Python-based desktop weather app
+Exec=/usr/bin/weatherio
+Icon=/usr/share/weatherio/resources/desktop_icon.png
+Terminal=false
+Type=Application
+Categories=Utility;

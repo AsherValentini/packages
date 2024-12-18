@@ -1,7 +1,15 @@
+#!/usr/bin/env python3
+import sys
+import os
+
+#Ensure the app modules are in the system path
+sys.path.append('/usr/share/weatherio')
+
+
 from PyQt5.QtWidgets import QApplication
 from views.interface import WeatherAppView
 from controllers.weather_controller import WeatherController
-import sys
+
 
 
 def main():

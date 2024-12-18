@@ -1,0 +1,10 @@
+Package: weatherio
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Asher Valentini  <ashermvalentini@gmail.com>
+Depends: python3, python3-aiohttp, python3-attr, python3-pyqt5, python3-typing-extensions, python3-yarl
+Description: A weather monitoring application
+ A simple and elegant weather application that provides real-time 
+ weather information using a Python-based GUI. Ideal for desktop users.

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WeatherIO
+Comment=A simple weather application
+Exec=/usr/bin/weatherio
+Icon=/usr/share/icons/hicolor/48x48/apps/desktop_icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Weather;
